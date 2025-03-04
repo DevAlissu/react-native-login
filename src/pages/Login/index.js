@@ -108,7 +108,7 @@ export default function App() {
           <TextInput
             style={styles.input}
             placeholder="Senha"
-            //keyboardType="visible-password"
+            //keyboardType="visible-password" //resolvi comentar
             textContentType="password"
             autoCapitalize="none"
             autoCompleteType="password"
